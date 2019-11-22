@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: ea4f21abe91b8014c9141a80c9a480fd
+timeCreated: 1476023614
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Computer_Button_01
+    100002: Computer_Button_010
+    100004: Computer_Button_011
+    100006: Computer_Button_012
+    100008: Computer_Button_013
+    100010: Computer_Button_014
+    100012: Computer_Button_015
+    100014: Computer_Button_016
+    100016: Computer_Button_02
+    100018: Computer_Button_03
+    100020: Computer_Button_04
+    100022: Computer_Button_05
+    100024: Computer_Button_06
+    100026: Computer_Button_07
+    100028: Computer_Button_08
+    100030: Computer_Button_09
+    100032: //RootNode
+    100034: Wall_Computer
+    100036: Wall_Computer_Cam
+    100038: Wall_Computer_Keyboard
+    100040: Wall_Computer_Screen
+    400000: Computer_Button_01
+    400002: Computer_Button_010
+    400004: Computer_Button_011
+    400006: Computer_Button_012
+    400008: Computer_Button_013
+    400010: Computer_Button_014
+    400012: Computer_Button_015
+    400014: Computer_Button_016
+    400016: Computer_Button_02
+    400018: Computer_Button_03
+    400020: Computer_Button_04
+    400022: Computer_Button_05
+    400024: Computer_Button_06
+    400026: Computer_Button_07
+    400028: Computer_Button_08
+    400030: Computer_Button_09
+    400032: //RootNode
+    400034: Wall_Computer
+    400036: Wall_Computer_Cam
+    400038: Wall_Computer_Keyboard
+    400040: Wall_Computer_Screen
+    2300000: Computer_Button_01
+    2300002: Computer_Button_010
+    2300004: Computer_Button_011
+    2300006: Computer_Button_012
+    2300008: Computer_Button_013
+    2300010: Computer_Button_014
+    2300012: Computer_Button_015
+    2300014: Computer_Button_016
+    2300016: Computer_Button_02
+    2300018: Computer_Button_03
+    2300020: Computer_Button_04
+    2300022: Computer_Button_05
+    2300024: Computer_Button_06
+    2300026: Computer_Button_07
+    2300028: Computer_Button_08
+    2300030: Computer_Button_09
+    2300032: Wall_Computer
+    2300034: Wall_Computer_Cam
+    2300036: Wall_Computer_Keyboard
+    2300038: Wall_Computer_Screen
+    3300000: Computer_Button_01
+    3300002: Computer_Button_010
+    3300004: Computer_Button_011
+    3300006: Computer_Button_012
+    3300008: Computer_Button_013
+    3300010: Computer_Button_014
+    3300012: Computer_Button_015
+    3300014: Computer_Button_016
+    3300016: Computer_Button_02
+    3300018: Computer_Button_03
+    3300020: Computer_Button_04
+    3300022: Computer_Button_05
+    3300024: Computer_Button_06
+    3300026: Computer_Button_07
+    3300028: Computer_Button_08
+    3300030: Computer_Button_09
+    3300032: Wall_Computer
+    3300034: Wall_Computer_Cam
+    3300036: Wall_Computer_Keyboard
+    3300038: Wall_Computer_Screen
+    4300000: Wall_Computer
+    4300002: Computer_Button_014
+    4300004: Computer_Button_013
+    4300006: Computer_Button_016
+    4300008: Computer_Button_015
+    4300010: Computer_Button_010
+    4300012: Computer_Button_011
+    4300014: Computer_Button_012
+    4300016: Computer_Button_07
+    4300018: Computer_Button_09
+    4300020: Computer_Button_08
+    4300022: Computer_Button_05
+    4300024: Computer_Button_04
+    4300026: Computer_Button_01
+    4300028: Computer_Button_02
+    4300030: Computer_Button_03
+    4300032: Computer_Button_06
+    4300034: Wall_Computer_Screen
+    4300036: Wall_Computer_Cam
+    4300038: Wall_Computer_Keyboard
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
